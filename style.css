@@ -1,12 +1,10 @@
 header {
-    background-color: #CFDDA1;
-    color: #CFDDA1;
+    background-color: #f0f3e6;
+    color: #f0f3e6;
 }
-
-body{
-    background-color: #CFDDA1;
-}
-
 
 .livro-imagem{
     width:30%
+}
+body{
+    background-color: #CFDDA1 ; }
