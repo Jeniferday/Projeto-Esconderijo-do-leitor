@@ -4,5 +4,8 @@ header {
 }
 
 .livro-imagem{
-    width: 30%
+    width:30%
+}
+body{
+    background-color: #CFDDA1;
 }
