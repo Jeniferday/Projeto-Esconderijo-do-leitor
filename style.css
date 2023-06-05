@@ -1,10 +1,12 @@
-header {
-    background-color: #ffffff;
-    color: #ffffff;
+:root{
+    --cor-de-fundo: #CFDDA1
 }
 
-.livro-imagem{
+body{
+    background-color: var(--cor-de-fundo)
+}
+
+  header{
+    .livro-imagem{
     width: 20%;
 }
-body{
-    background-color: #CFDDA1 ; }
