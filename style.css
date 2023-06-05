@@ -6,7 +6,10 @@ body{
     background-color: var(--cor-de-fundo)
 }
 
-  header{
-    .livro-imagem{
-    width: 20%;
+  header{ 
+    color: #CFDDA1;
+    
 }
+
+.livro-imagem{
+    width: 20%;}
